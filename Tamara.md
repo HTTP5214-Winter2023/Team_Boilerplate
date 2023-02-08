@@ -1,0 +1,44 @@
+# Store the file contents in a variable
+$html = @"
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML Boilerplate</title>
+  <link rel='stylesheet' type='text/css' href='styles.css' />
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <script src='script.js'></script>
+</body>
+</html>
+"@
+
+# Generate random folder name
+$randomName = -join ((65..90) + (97..122) | Get-Random -Count 8 | % {[char]$_})
+$folder = "$randomName"
+
+# Create a new folder in the current directory
+New-Item -ItemType Directory -Path $folder -Force
+
+# Create a new file in the folder
+$file = "$folder\index.html"
+New-Item -ItemType File -Path $file -Force
+
+# Write the contents to the file
+Set-Content -Path $file -Value $html
+
+# Create a new css file
+$css = "$folder\styles.css"
+New-Item -ItemType File -Path $css -Force
+
+#adding css boilerplate
+$cssBoilerPlate = "h1{background-color: red};"
+Set-Content -Path $css -Value $cssBoilerPlate
+
+#Create a new js file
+$js = "$folder\script.js"
+New-Item -ItemType File -Path $js -Force
+
+
+# Open the file in Visual Studio Code
+code -r $file
