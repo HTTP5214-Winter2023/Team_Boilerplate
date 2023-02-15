@@ -36,3 +36,5 @@ We talked about what we researched
 We distributed a powershell script with a template boilerplate 
 
 The plan is to edit the boilerplate and personalize it
+
+https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-macos?view=powershell-7.3
