@@ -2,5 +2,6 @@
 
 Team Memneres:
 
-Trello URL:
+Trello URL: https://trello.com/b/NzixqsS2/team-boilerplate
+
 
