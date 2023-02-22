@@ -27,7 +27,7 @@ Create a team repository.
 Complete the Ontario College Student Experience Survey.
 
 
-# 7/2/2023 
+# 8/2/2023 
 SCRUM MASTER: Tamara Ebi-Ukuli
 Note taker: Stephen Folorunsho
 
