@@ -16,7 +16,7 @@ Meetings
 Our team had the following meetings:
 
 We researched on the scripts of powershell and determine how to get other's work
-when we add those scrpits. Then, we discussed what page we are going to make
+when we add those scrpits. Then, we discussed what page we are going to make.
 
 Boilerplate meeting,
 lead by Sophia Scott,
@@ -36,9 +36,9 @@ Meetings
 
 Our team had the following meetings:
 
-We talked about what we researched
-We distributed a powershell script with a template boilerplate
-The plan is to edit the boilerplate and personalize it
+- We talked about what we researched
+- We distributed a powershell script with a template boilerplate
+- The plan is to edit the boilerplate and personalize it
 
 Boilerplate meeting,
 lead by Tamara Ebi-Ukuli,
@@ -56,7 +56,8 @@ Meetings
 
 Our team had the following meetings:
 
-We discussed what we are going to make. We came up the idea of using Chatgpt API
+We discussed what we are going to make. We came up the idea of using Chatgpt API to implement it into our page.
+Then we started researching the use of Chatgpt Api.
 
 Boilerplate meeting,
 lead by Gahee Choi,
