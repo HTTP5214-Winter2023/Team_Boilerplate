@@ -49,3 +49,10 @@ We updated a powershell script with a template boilerplate
 
 The plan is to build API for ChatGPT
 and If we finish early we are going to do testing. 
+
+# 8/3/2023
+SCRUM MASTER:  Nikhil
+Note taker: Stephen Folorunsho
+
+
+
