@@ -49,3 +49,9 @@ We updated a powershell script with a template boilerplate
 
 The plan is to build API for ChatGPT
 and If we finish early we are going to do testing. 
+
+# 8/3/2023
+
+We separted the group wotrk into API / Fall back plan 
+For the API, the goal is to integrate chatGPT's API to ask ask it a question and the then it should spit out the answer in the command line - % people 
+
