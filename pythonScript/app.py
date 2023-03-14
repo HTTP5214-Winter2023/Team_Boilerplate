@@ -18,9 +18,10 @@ def chatbot(input):
         messages.append({"role": "assistant", "content": reply})
         return reply
 
-inputs = gr.inputs.Textbox(lines=7, label="Chat with AI")
+
+inputs = gr.inputs.Textbox(lines=7, label="What can I make for you?")
 outputs = gr.outputs.Textbox(label="Reply")
 
-gr.Interface(fn=chatbot, inputs=inputs, outputs=outputs, title="AI Chatbot",
-             description="Ask anything you want",
+gr.Interface(fn=chatbot, inputs=inputs, outputs=outputs, title="TeamBoilerplate Chatbot",
+             description="Be as specific as you can when asking for an HTML, CSS and JS boilerplate. Include classnames, id where needed and specify if you want a semantic or non-semantic tags ",
              theme="compact").launch(share=True)
