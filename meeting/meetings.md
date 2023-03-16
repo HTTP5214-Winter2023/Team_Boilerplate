@@ -27,7 +27,7 @@ Create a team repository.
 Complete the Ontario College Student Experience Survey.
 
 
-# 7/2/2023 
+# 8/2/2023 
 SCRUM MASTER: Tamara Ebi-Ukuli
 Note taker: Stephen Folorunsho
 
@@ -49,3 +49,15 @@ We updated a powershell script with a template boilerplate
 
 The plan is to build API for ChatGPT
 and If we finish early we are going to do testing. 
+
+# 8/3/2023
+SCRUM MASTER:  Nikhil
+Note taker: Stephen Folorunsho
+
+This week, we researched using the OpenAi API for chatGPT and how we would integrated it to our project. We found a couple of scripts online that made use of python.
+We also layed out a contigency plan, which was to make use of our original .ps1 script, moodify that, creaate a repo with a descriptive read me so that when it comes to user testing, we would have something to distribute. 
+We split the group into 2. 1 group will focus on the integreation aspect while the other gorup would focus on the contingency plan. 
+The goal for next week is that for the integration team, they carry on reaserching how to integrate the API and come with whatever work they do and the contingency team can have a demo page created and can start working on the read me. 
+
+
+
