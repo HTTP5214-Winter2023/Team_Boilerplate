@@ -3,6 +3,7 @@
 
 - Participants:
     5 Web development students from the class
+     1. Vita 
 
 - Instructions: 
 
@@ -63,3 +64,16 @@
 -----
 
 Likes / Dislikes / Recommendations: There are different types of feedback you could collect from your users, and if you would prefer to use, say, a System Usability Scale, that's totally fine. The bare minimum format for collecting user feedback is to ask for their likes, their dislikes and their recommendations.
+
+- participant 1: Vita
+
+Likes:
+- The codes that provided a simple template with styles and menu bar. That allows me to build my own webpage easier.
+- The style of elements' composition is okay.
+Dislikes:
+- couldn't see the loading state
+
+Recommendations:
+- will be great if the codes can be placed in VScode automatically OR adding a 'COPY' button
+
+
