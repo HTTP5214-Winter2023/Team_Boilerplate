@@ -7,6 +7,7 @@
      2. Simon
      3. Louise
      4. Ceci
+     5. Lukemon
 
 - Instructions: 
 
@@ -116,7 +117,34 @@ Recommendations:
 
 Likes: so cool that ChatGpt gets you the right color, right data for the navigation bar
 
-Dislikes: there is no loading status while waiting the template to generate, there is no formatting and no tag for the HTML and CSS
+Dislikes: there is no loading status while waiting the template to generate, there is no formatting and no tab for the HTML and CSS
 
 Recommendations: Maybe more styles to choose like the navigation bar styles, can have a copy button for copying automatically, can seperate the HTML and CSS instead of inline tag style
+
+
+
+
+
+
+
+-----
+
+
+
+
+
+
+
+
+
+- participant 3: Lukmon
+
+
+Likes: I like that it is easy to use, straightforward and direct 
+
+
+Dislikes: I like it to have a copy button, so I don't have to highlight the whole code before copying
+
+
+Recommendations: Just the copy button to be added to the page 
 
