@@ -35,11 +35,11 @@ export default function Home() {
     <div>
       <Head>
         <title>HTML Boilterplate Generator</title>
-        <link rel="icon" href="/dog.png" />
+        <link rel="icon" href="/plate.png" />
       </Head>
 
       <main className={styles.main}>
-        <img src="/dog.png" className={styles.icon} />
+        <img src="/plate.png" className={styles.icon} />
         <h3>HTML Boilterplate Generator</h3>
         <form onSubmit={onSubmit}>
           <input
