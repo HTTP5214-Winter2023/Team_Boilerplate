@@ -106,14 +106,9 @@ Recommendations:
 - maybe a loading graphic or just a word that says "please wait" something like that
 
 
-
-
 -----
 
-
-
-
-- participant 3: Ceci
+- participant 4: Ceci
 
 Likes: so cool that ChatGpt gets you the right color, right data for the navigation bar
 
@@ -121,23 +116,9 @@ Dislikes: there is no loading status while waiting the template to generate, the
 
 Recommendations: Maybe more styles to choose like the navigation bar styles, can have a copy button for copying automatically, can seperate the HTML and CSS instead of inline tag style
 
-
-
-
-
-
-
 -----
 
-
-
-
-
-
-
-
-
-- participant 3: Lukmon
+- participant 5: Lukmon
 
 
 Likes: I like that it is easy to use, straightforward and direct 
