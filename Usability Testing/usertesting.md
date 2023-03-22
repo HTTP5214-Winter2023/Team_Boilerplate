@@ -1,3 +1,9 @@
+- Scenario:
+ You are a software development company that has developed a code boilerplate generator using ChatGPT's language model. You want to test the functionality and effectiveness of the program by allowing users to generate code for a simple website.
+
+- Participants:
+    5 Web development students from the class
+
 - Instructions: 
 
     - Before the testing session:
@@ -40,8 +46,6 @@
 
 
 
-- Scenario:
- You are a software development company that has developed a code boilerplate generator using ChatGPT's language model. You want to test the functionality and effectiveness of the program by allowing users to generate code for a simple website.
 
   - Steps:
 
