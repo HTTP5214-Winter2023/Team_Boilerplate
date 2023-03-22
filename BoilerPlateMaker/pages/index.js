@@ -24,6 +24,7 @@ export default function Home() {
 
       setResult(data.result);
       setAnimalInput("");
+      console.log(data);
     } catch(error) {
       // Consider implementing your own error handling logic here
       console.error(error);
@@ -51,7 +52,11 @@ export default function Home() {
           />
           <input type="submit" value="Generate Boilterplate" />
         </form>
-        <div className={styles.result}><code>{result}</code></div>
+        <div className={styles.result}>
+          <code className={styles.code}>
+            {result}
+          </code>
+          </div>
       </main>
     </div>
   );

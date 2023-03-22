@@ -65,4 +65,12 @@
   font-weight: bold;
   margin-top: 40px;
   white-space: pre-line;
+  width: 50%;
+  margin: auto;
+}
+.code {
+  background-color: #eee;
+  border-radius: 3px;
+  font-family: courier, monospace;
+  padding: 0 3px;
 }
