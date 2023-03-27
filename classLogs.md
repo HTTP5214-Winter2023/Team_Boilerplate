@@ -92,3 +92,12 @@ Today, the group prepaired for our user testing, and then conducted the testing 
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 - nothing this week
+
+
+## Apr 3rd
+Last time, our group conducted user testing.
+
+Today, I attended class from online. we decussed the feedback from our user testing last week. 
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+- nothing this week
