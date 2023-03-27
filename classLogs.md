@@ -74,3 +74,21 @@ Today, the group had a meeting to talk and plan out how we will exicute our plan
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 - getting in contact with others in the boilerplate group who are online, or other team members who dident attend.
+
+
+## Mar 15th
+Last time, I worked on how we will exicute our plan for the code.
+
+Today, I attended from online, and the team worked on and decussed the sepcifics of what will need to be done for user testing. the final project was tested among the group, and we worked on things like the user testing script.
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+- nothing for this week
+
+
+## Mar 22nd
+Last time, I worked on what will need to be done for user testing.
+
+Today, the group prepaired for our user testing, and then conducted the testing for 5 users and recieved feadback. for each user I prepaired the computer station where the testing would take place, and read the script to instruct people with how to use our bolierplate chat gpt app.
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+- nothing this week
