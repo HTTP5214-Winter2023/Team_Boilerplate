@@ -101,3 +101,7 @@ Next week, I will work on making usre I have all ther rquired filles and documne
 
 
 ## March 29
+SCRUM MASTER: Wenbo
+Note taker: Wenbo
+This week I worked on updating my personal standup log to make sure that I have 10 entries.
+
