@@ -74,5 +74,30 @@ From tha meeting, we dicussed that we can make use of chatGPT's API to create a 
 I looked into reading chatGPT's documentation for it's API and how we would be able to use it for our purpose. I saw that there is a Google chrome extension and I will continue to look into how to create this. 
 
 
-##March 8
-........
+## March 8
+## Meeting
+SCRUM MASTER: Nikhil Sarker
+Note taker: Stephen Folorunsho
+
+This week, we researched using the OpenAi API for chatGPT and how we would integrated it to our project. We found a couple of scripts online that made use of python. We also layed out a contigency plan, which was to make use of our original .ps1 script, modify that, create a repo with a descriptive read me so that when it comes to user testing, we would have something to distribute. We split the group into 2. 1 group will focus on the integreation aspect while the other gorup would focus on the contingency plan. The goal for next week is that for the integration team, they carry on reaserching how to integrate the API and come with whatever work they do and the contingency team can have a demo page created and can start working on the read me.
+I created an OpenAI Key, installed pythonand worked on the making the phyton script work. I was able to get it running. I followed the document I found on it and although I ran into some errors, I was able to get it running. I also reach out the Simon, and he sent me a python script that allows a user to use chatGPT in the command line, which could be another option for out group. I will present my findings to the group next week. 
+
+
+
+## March 15
+## Meeting
+SCRUM MASTER: Ka Wing Chan
+Note taker: Ka Wing Chan
+This week, we worked on integrating ChatGPT into our page. Finally we successfully integrate a ChatGPT template by using python. Besides, we also found another template for Node.js. If we successfully integrate it, we can generate HTML/CSS template for any pages. Then, we discussed how to make use of the templates to build our boilerplate webpage. Apart from the ChatGPT, we were also making a boilerplate webpage using HTML/CSS.
+
+Our goal next week is to finish our boilerplate webpage and ask our classmates to user test our page.
+
+
+## March 22
+
+This week, as a group we performed our usability testing in class with 5 participants from the class. We had a script that was used and each participant filled out a qustionnarie answering questions such aas what they liked, what they disliked and what recommendations they have to improve our site. We compilled all of our findings in our repo and will submit it in our report. 
+Next week, I will work on making usre I have all ther rquired filles and documnets required to pass the course. 
+
+
+
+## March 29
