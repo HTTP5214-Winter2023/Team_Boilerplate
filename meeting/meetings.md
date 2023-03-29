@@ -51,7 +51,7 @@ The plan is to build API for ChatGPT
 and If we finish early we are going to do testing. 
 
 # 8/3/2023
-SCRUM MASTER:  Nikhil
+SCRUM MASTER:  Nikhil Sarker
 Note taker: Stephen Folorunsho
 
 This week, we researched using the OpenAi API for chatGPT and how we would integrated it to our project. We found a couple of scripts online that made use of python.
