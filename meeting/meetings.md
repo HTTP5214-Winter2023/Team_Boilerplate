@@ -65,6 +65,6 @@ Note taker: Ka Wing Chan (Wingo)
 
 This week, we worked on integrating ChatGPT into our page. Finally we successfully integrate a ChatGPT template by using python. Then, we discussed how to make use of the template to build our boilerplate webpage. Apart from the ChatGPT, we were also making a boilerplate webpage using HTML/CSS.
 
-Our goal next week is to finish our boilerplate webpage and ask our classmates to user test our page
+Our goal next week is to finish our boilerplate webpage and ask our classmates to user test our page.
 
 
