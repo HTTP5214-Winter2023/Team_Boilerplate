@@ -59,5 +59,12 @@ We also layed out a contigency plan, which was to make use of our original .ps1 
 We split the group into 2. 1 group will focus on the integreation aspect while the other gorup would focus on the contingency plan. 
 The goal for next week is that for the integration team, they carry on reaserching how to integrate the API and come with whatever work they do and the contingency team can have a demo page created and can start working on the read me. 
 
+# 15/3/2023
+SCRUM MASTER: Ka Wing Chan (Wingo)
+Note taker: Ka Wing Chan (Wingo)
+
+This week, we worked on integrating ChatGPT into our page. Finally we successfully integrate a ChatGPT template by using python. Then, we discussed how to make use of the template to build our boilerplate webpage. Apart from the ChatGPT, we were also making a boilerplate webpage using HTML/CSS.
+
+Our goal next week is to finish our boilerplate webpage and ask our classmates to user test our page
 
 
