@@ -52,41 +52,69 @@ We continued our work last week and added more features on our pages.
 
 link to our work https://trello.com/b/NzixqsS2/team-boilerplate
 
-Meetings
+Meeting:
 
 Our team had the following meetings:
 
 We discussed what we are going to make. We came up the idea of using Chatgpt API to implement it into our page.
 Then we started researching the use of Chatgpt Api.
 
-Boilerplate meeting,
 lead by Gahee Choi,
 documented at https://raw.githubusercontent.com/HTTP5214-Winter2023/Team_Boilerplate/main/meeting/meetings.md.
 
-## Feb 22th
 
-Work
-
-
-
-## Mar 01th
-
-Work
 
 
 ## Mar 08th
 
-Work
+Work:
 
+We work for makeing a repository with a descriptive name Read me so that we would have something to distribute for user testing. The group was divided into two. One group will concentrate on the integration element, and the other group will concentrate on the backup plan.
+
+link to our work https://trello.com/b/NzixqsS2/team-boilerplate
+
+Meeting:
+
+Our team had the following meetings:
+
+we researched using the OpenAi API for chatGPT and how we would integrated it to our project.
+
+Boilerplate meeting,
+lead by Nikhil Sarker,
+documented at https://raw.githubusercontent.com/HTTP5214-Winter2023/Team_Boilerplate/main/meeting/meetings.md.
 
 ## Mar 15th
 
 Work
 
+we worked on integrating ChatGPT into our page. Finally we successfully integrate a ChatGPT template by using python. Also, we found another template for Node.js. If we successfully integrate it, we can generate HTML/CSS template for any pages.
+
+Meetings:
+
+Our team had the following meetings:
+
+The team carry on reaserching how to integrate the API and come with whatever work they do and the contingency team can have a demo page created and can start working on the read me. We were also utilising HTML/CSS to create a boilerplate webpage in addition to the ChatGPT.
+
+Meeting,
+lead by Ka Wing Chan,
+documented at https://raw.githubusercontent.com/HTTP5214-Winter2023/Team_Boilerplate/main/meeting/meetings.md.
+
 ## Mar 22th
 
-Work
+Work:
+
+The team work on usability testing. We invited five people to take the usability testing. People use our app and give us some feedback.
+
+Meeting:
+
+lead by Ziheng Xie(Frank)
+documented at https://github.com/HTTP5214-Winter2023/Team_Boilerplate/tree/main/Usability%20Testing
 
 ## Mar 29th
 
-Work
+Work:
+
+We summaried and made conclusion of the usability test. Optimized the applicatioin. Worked on personal stand-up log.
+
+Meeting:
+lead by Wenbo Min
