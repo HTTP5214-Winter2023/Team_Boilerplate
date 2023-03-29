@@ -68,8 +68,8 @@ This week, we worked on integrating ChatGPT into our page. Finally we successful
 Our goal next week is to finish our boilerplate webpage and ask our classmates to user test our page.
 
 # 15/3/2023
-SCRUM MASTER: Wenbo Min
-Note taker: Wenbno Min
+SCRUM MASTER: Ziheng Xie(Frank)
+Note taker: Ziheng Xie(Frank)
 
 This week usability test. Test plan and test result, refer to: https://github.com/HTTP5214-Winter2023/Team_Boilerplate/tree/main/Usability%20Testing
 
