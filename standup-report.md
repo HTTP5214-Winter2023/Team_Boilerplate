@@ -62,3 +62,31 @@ Then we started researching the use of Chatgpt Api.
 Boilerplate meeting,
 lead by Gahee Choi,
 documented at https://raw.githubusercontent.com/HTTP5214-Winter2023/Team_Boilerplate/main/meeting/meetings.md.
+
+## Feb 22th
+
+Work
+
+
+
+## Mar 01th
+
+Work
+
+
+## Mar 08th
+
+Work
+
+
+## Mar 15th
+
+Work
+
+## Mar 22th
+
+Work
+
+## Mar 29th
+
+Work
