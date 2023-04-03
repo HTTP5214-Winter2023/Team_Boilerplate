@@ -1,5 +1,5 @@
 # BoilerPlateMaker
-[Live Version](https://boiler-plate-maker.vercel.app/)
+<p>[Live Version](https://boiler-plate-maker.vercel.app/)</p>
 This is an app that generates HTML/CSS boilerplate code based on the type of website you want.
 Example usage: flower shop
 ![alt text](https://i.imgur.com/JL7Q1oY.png)
