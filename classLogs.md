@@ -94,10 +94,28 @@ Here's a list of stuff that's blocking me from moving ahead with my work:
 - nothing this week
 
 
-## Apr 3rd
+## Mar 29th
 Last time, our group conducted user testing.
 
 Today, I attended class from online. we decussed the feedback from our user testing last week. 
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+- nothing this week
+
+
+## Apr 5th
+Last time, our group decussed our user testing results.
+
+Today, our group held a standup meeting and we handed in our github repository. 
+
+Here's a list of stuff that's blocking me from moving ahead with my work:
+- nothing this week
+
+
+## Apr 12th
+Last time, our group conducted user testing.
+
+Today,  
 
 Here's a list of stuff that's blocking me from moving ahead with my work:
 - nothing this week
