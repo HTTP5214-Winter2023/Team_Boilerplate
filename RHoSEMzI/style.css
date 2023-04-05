@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: rgb(181, 229, 119);
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  color: purple;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+h1 {
+  margin: 20px 0;
+  text-align: center;
+}
+img {
+  animation: move 8s infinite;
+}
+footer {
+  background-color: lightblue;
+  bottom: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+@keyframes move {
+  0% {
+    padding-left: 0;
+  }
+  100%{
+    padding-left: 500px;
+  }
+}
