@@ -1,44 +1,85 @@
-# Store the file contents in a variable
-$html = @"
+# HTML file
+$htmlContent = @"
 <!DOCTYPE html>
 <html>
-<head>
-  <title>HTML Boilerplate</title>
-  <link rel='stylesheet' type='text/css' href='styles.css' />
-</head>
-<body>
-  <h1>Hello, World!</h1>
-  <script src='script.js'></script>
-</body>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript" src="script.js"></script>
+  </head>
+  <body>
+    <header>
+      <nav>
+        < a href=" ">Home</ a> |
+        < a href="#">About</ a> |
+        < a href="#">Contact</ a>
+      </nav>
+    </header>
+    <h1>Welcome to My Website</h1>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name">
+      <br><br>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email">
+      <br><br>
+      <input type="submit" value="Submit">
+    </form>
+    <footer>
+      Copyright  My Website
+    </footer>
+  </body>
 </html>
 "@
+Set-Content -Path "index.html" -Value $htmlContent
 
-# Generate random folder name
-$randomName = -join ((65..90) + (97..122) | Get-Random -Count 8 | % {[char]$_})
-$folder = "$randomName"
+# CSS file
+$cssContent = @"
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+nav a {
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+h1 {
+  margin: 20px 0;
+  text-align: center;
+}
+form {
+  margin: 20px auto;
+  width: 400px;
+}
+label, input {
+  display: block;
+  margin: 10px 0;
+  width: 100%;
+}
+input[type="submit"] {
+  background-color: lightblue;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+}
+footer {
+  background-color: lightblue;
+  bottom: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+"@
+Set-Content -Path "style.css" -Value $cssContent
 
-# Create a new folder in the current directory
-New-Item -ItemType Directory -Path $folder -Force
-
-# Create a new file in the folder
-$file = "$folder\index.html"
-New-Item -ItemType File -Path $file -Force
-
-# Write the contents to the file
-Set-Content -Path $file -Value $html
-
-# Create a new css file
-$css = "$folder\styles.css"
-New-Item -ItemType File -Path $css -Force
-
-#adding css boilerplate
-$cssBoilerPlate = "h1{background-color: red};"
-Set-Content -Path $css -Value $cssBoilerPlate
-
-#Create a new js file
-$js = "$folder\script.js"
-New-Item -ItemType File -Path $js -Force
-
-
-# Open the file in Visual Studio Code
-code -r $file
+# JavaScript file
+$jsContent = @"
+console.log("Welcome to My Website!");
+"@
+Set-Content -Path "script.js" -Value $jsContent
