@@ -159,3 +159,22 @@ SCRUM MASTER: Wenbo Min
 Note taker: Wenbno Min
 
 This week, we summaried and made conclusion of the usability test. Optimized the applicatioin. Worked on personal stand-up log.
+
+# 14/04/2023
+SCRUM MASTER: Linda Badurina
+Note Taker: Linda Badurina
+
+This week we focused on finishing touches to conclude the project.
+
+We clarified that the development for the application was mainly at the end, but agreed that adding a final touch in regards to the aesthetics of the product would be beneficial. 
+
+The goal for the following week (or next hour!) will be to ensure Linda's HTML/CSS design changes are correctly added to the GitHub repository. This will ensure three things, including:
+1. That the final application is not only functionally useable, but also easy eye-catching and inviting to users
+2. User friendly due to being designed with critical UX design principles in mind
+3. That the application is responsive, therefore useable on any screen size
+
+If time permits, additional functionality can also be added giving user's more customization options for personalizing their boilerplate (currently there are two). The required changes for this have already been added in the HTML/CSS, but they are not yet functional.
+
+These changes will ensure that the application meets all the user's needs in as many ways possible and goes slightly beyond the requirements of a MVP.
+
+Thus, ends our project!
