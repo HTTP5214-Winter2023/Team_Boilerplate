@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width initial-scale=1.0">
+  <title>HTML Boilerplate</title>
+  <link rel='stylesheet' type='text/css' href='styles.css' />
+</head>
+<body>
+  <header id="header-menu">
+    <nav>
+      <a href="#">Home</a> |
+      <a href="#">About</a> |
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <div class="heading-container">
+      <h1>Welcome!</h1>
+      <div class="text-container">
+        <h2> Ready to begin a new project? <br><br> Give it a head start and save time by using this custom boilerplate generator. Simply select your desired starting point below and your code is ready to be customized to your liking. There's no need to waste your precious time on tedious and repetive tasks that you've done hundreds of times. You clearly know how to create a form. So why not take the easy route and save yourself some trouble? You deserve it!<br><br> 
+        Plus, our boilerplate features built-in responsiveness and flexbox layouts. Your creations are given a head start towards being usable on any device or screen size. </h2>
+          <h2>Enjoy! The rest is in your hands. </h2>
+       </div>
+    </div>
+
+    <div class="form-container">
+    <form>
+      
+      <b>Choose the Background Colour of the Body:</b>
+      <input type="text" name="bodycolor" placeholder="Search for Background Colours" />
+      <input type="button" value="Enter" name="press" onclick="colorBody()" />
+    
+      <b>Choose the Background Colour of the Header:</b>
+      <input type="text" name="headercolor" placeholder="Search Header Colours" />
+      <input type="button" value="Enter" name="press" onclick="colorHeader()" />
+    
+      <b>Choose Primary Text Font:</b>
+      <input type="text" name="textfont" placeholder="Search Fonts" />
+      <input type="button" value="Enter" name="press" onclick="textFont()" />
+    
+      <b>Choose Primary Text Colour:</b>
+      <input type="text" name="textcolour" placeholder="Search Text Coloursr"  />
+      <input type="button" value="Enter" name="press" onclick="textColor()" />
+          
+      <b>Select Default Button and Input Box Colour Scheme </b>
+      <input type="text" name="textcolour" placeholder="Choose UI Component Default Theme "  />
+      <input type="button" value="Enter" name="press" onclick="buttonColor()" />
+
+    </form>
+  </div>
+  </div>
+  <footer>
+    <p>&copy; Team Boilerplate, 2023</p>
+  </footer>
+  <script src='script.js'> 
+  </script>
+</body>
+</html>
