@@ -1,7 +1,7 @@
 
 ## Team Boilerplate
 
-Team Members: Wenbo, Tamara, Stephen, Sophia, Kate, Frank, Nikhil, Wingo
+Team Members: Wenbo, Tamara, Stephen, Sophia, Kate, Frank, Nikhil, Wingo, Linda
 
 
 Trello URL: https://trello.com/b/NzixqsS2/team-boilerplate
