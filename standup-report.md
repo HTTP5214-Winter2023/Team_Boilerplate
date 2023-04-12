@@ -141,5 +141,5 @@ Thus, ends our project!
 
 Meeting:
 
-Led By Linda Badurina
+Led By Linda Badurina,
 Documented At: https://github.com/HTTP5214-Winter2023/Team_Boilerplate/blob/main/meeting/meetings.md
