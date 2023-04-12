@@ -160,7 +160,7 @@ Note taker: Wenbno Min
 
 This week, we summaried and made conclusion of the usability test. Optimized the applicatioin. Worked on personal stand-up log.
 
-# 14/04/2023
+# 12/04/2023
 SCRUM MASTER: Linda Badurina
 Note Taker: Linda Badurina
 
