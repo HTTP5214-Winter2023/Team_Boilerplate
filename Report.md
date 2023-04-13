@@ -119,3 +119,29 @@ We summaried and made conclusion of the usability test. Optimized the applicatio
 
 Meeting:
 lead by Wenbo Min
+
+## April 12
+
+Work: 
+
+This week we focused on finishing touches to conclude the project.
+
+We clarified that the development for the application was mainly at the end, but agreed that adding a final touch in regards to the aesthetics of the product would be beneficial.
+
+The goal for the following week (or next hour!) will be to ensure Linda's HTML/CSS design changes are correctly added to the GitHub repository. This will ensure three things, including:
+
+1. That the final application is not only functionally useable, but also easy eye-catching and inviting to users
+2. User friendly due to being designed with critical UX design principles in mind
+3. That the application is responsive, therefore useable on any screen size
+
+If time permits, additional functionality can also be added giving user's more customization options for personalizing their boilerplate (currently there are two). The required changes for this have already been added in the HTML/CSS, but they are not yet functional.
+
+These changes will ensure that the application meets all of the user's needs in as many ways possible and potentially goes slightly beyond the requirements of a MVP.
+
+Thus, ends our project!
+
+Meeting:
+
+Led By Linda Badurina,
+Documented At: https://github.com/HTTP5214-Winter2023/Team_Boilerplate/blob/main/meeting/meetings.md
+
