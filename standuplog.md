@@ -58,3 +58,13 @@ This week usability test. Test plan and test result, refer to: https://github.co
 This week I participated as a team member. we discuss about the future plan</br>
 SCRUM MASTER: Wenbo Min
 Note taker: Wenbno Min
+
+# 5/4/2023
+This week I participated as a team member. we had a meeting with Simon</br>
+
+# 12/4/2023
+
+This week I participated as a team member.This week we focused on finishing touches to conclude the project.
+We are adding finishing touches to conclude our project, including improving the aesthetics of the application. We plan to ensure that the HTML/CSS design changes are correctly added to the GitHub repository.
+SCRUM MASTER: Linda Badurina
+Note taker: Linda Badurina
